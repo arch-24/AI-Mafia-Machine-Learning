@@ -1,1 +1,1 @@
-# AI-Mafia-Machine-Learninh
+# AI-Mafia-Machine-Learning
